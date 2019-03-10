@@ -1,0 +1,3 @@
+importFrom(stats, var)
+importFrom(stats, qt)
+exportPattern("varwci")
